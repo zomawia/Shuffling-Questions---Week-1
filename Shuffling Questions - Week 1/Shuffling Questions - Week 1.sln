@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Unique Pythagorean Triples"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Displacement Overlays", "Displacement Overlays\Displacement Overlays.vcxproj", "{8624BC04-F0CE-43A5-A445-9065AD103BDD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Only Evens", "Only Evens\Only Evens.vcxproj", "{EF3DB2BA-B4E8-45B5-8700-0C6AEEC1733A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{8624BC04-F0CE-43A5-A445-9065AD103BDD}.Release|x64.Build.0 = Release|x64
 		{8624BC04-F0CE-43A5-A445-9065AD103BDD}.Release|x86.ActiveCfg = Release|Win32
 		{8624BC04-F0CE-43A5-A445-9065AD103BDD}.Release|x86.Build.0 = Release|Win32
+		{EF3DB2BA-B4E8-45B5-8700-0C6AEEC1733A}.Debug|x64.ActiveCfg = Debug|x64
+		{EF3DB2BA-B4E8-45B5-8700-0C6AEEC1733A}.Debug|x64.Build.0 = Debug|x64
+		{EF3DB2BA-B4E8-45B5-8700-0C6AEEC1733A}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF3DB2BA-B4E8-45B5-8700-0C6AEEC1733A}.Debug|x86.Build.0 = Debug|Win32
+		{EF3DB2BA-B4E8-45B5-8700-0C6AEEC1733A}.Release|x64.ActiveCfg = Release|x64
+		{EF3DB2BA-B4E8-45B5-8700-0C6AEEC1733A}.Release|x64.Build.0 = Release|x64
+		{EF3DB2BA-B4E8-45B5-8700-0C6AEEC1733A}.Release|x86.ActiveCfg = Release|Win32
+		{EF3DB2BA-B4E8-45B5-8700-0C6AEEC1733A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
