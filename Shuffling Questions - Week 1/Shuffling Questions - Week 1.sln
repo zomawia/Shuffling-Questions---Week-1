@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fibonacci Sequence", "Fibonacci Sequence\Fibonacci Sequence.vcxproj", "{F88ABCCA-436F-4B27-91FF-2A33FFAD316E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Unique Pythagorean Triples", "Unique Pythagorean Triples\Unique Pythagorean Triples.vcxproj", "{99B3CB29-8D88-49B9-80FB-D79B6E28BA91}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Displacement Overlays", "Displacement Overlays\Displacement Overlays.vcxproj", "{8624BC04-F0CE-43A5-A445-9065AD103BDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +25,22 @@ Global
 		{F88ABCCA-436F-4B27-91FF-2A33FFAD316E}.Release|x64.Build.0 = Release|x64
 		{F88ABCCA-436F-4B27-91FF-2A33FFAD316E}.Release|x86.ActiveCfg = Release|Win32
 		{F88ABCCA-436F-4B27-91FF-2A33FFAD316E}.Release|x86.Build.0 = Release|Win32
+		{99B3CB29-8D88-49B9-80FB-D79B6E28BA91}.Debug|x64.ActiveCfg = Debug|x64
+		{99B3CB29-8D88-49B9-80FB-D79B6E28BA91}.Debug|x64.Build.0 = Debug|x64
+		{99B3CB29-8D88-49B9-80FB-D79B6E28BA91}.Debug|x86.ActiveCfg = Debug|Win32
+		{99B3CB29-8D88-49B9-80FB-D79B6E28BA91}.Debug|x86.Build.0 = Debug|Win32
+		{99B3CB29-8D88-49B9-80FB-D79B6E28BA91}.Release|x64.ActiveCfg = Release|x64
+		{99B3CB29-8D88-49B9-80FB-D79B6E28BA91}.Release|x64.Build.0 = Release|x64
+		{99B3CB29-8D88-49B9-80FB-D79B6E28BA91}.Release|x86.ActiveCfg = Release|Win32
+		{99B3CB29-8D88-49B9-80FB-D79B6E28BA91}.Release|x86.Build.0 = Release|Win32
+		{8624BC04-F0CE-43A5-A445-9065AD103BDD}.Debug|x64.ActiveCfg = Debug|x64
+		{8624BC04-F0CE-43A5-A445-9065AD103BDD}.Debug|x64.Build.0 = Debug|x64
+		{8624BC04-F0CE-43A5-A445-9065AD103BDD}.Debug|x86.ActiveCfg = Debug|Win32
+		{8624BC04-F0CE-43A5-A445-9065AD103BDD}.Debug|x86.Build.0 = Debug|Win32
+		{8624BC04-F0CE-43A5-A445-9065AD103BDD}.Release|x64.ActiveCfg = Release|x64
+		{8624BC04-F0CE-43A5-A445-9065AD103BDD}.Release|x64.Build.0 = Release|x64
+		{8624BC04-F0CE-43A5-A445-9065AD103BDD}.Release|x86.ActiveCfg = Release|Win32
+		{8624BC04-F0CE-43A5-A445-9065AD103BDD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
